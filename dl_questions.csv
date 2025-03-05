@@ -1,0 +1,128 @@
+Question,Difficulty Level,Difficulty_Score
+What are the benefits of object-oriented development over structure development'?,Medium,0.55
+How does the inception phase contribute to the overall success of a software development project?,Medium,0.55
+"Difference between the ""extend"" and ""include"" relationships in use case diagrams.",Medium,0.55
+Write the key differences between composition and aggregation in object-oriented design,Hard,0.85
+"Given a scenario involving dynamic interactions between objects, demonstrate how a sequence diagram would be more suitable than a collaboration diagram.",Hard,0.85
+How the parallel activities are represented in an activity diagram?,Medium,0.55
+State the principles of model-view separation in software design.,Easy,0.3
+Why design patterns are used in software development?,Hard,0.85
+Name the object-oriented methodologies used in software development.,Easy,0.3
+Is software testing a crucial phase in the software development life cycle? Justify your answer.,Medium,0.55
+"Draw the use case diagram and use case text for the following Scenario 1:  A hotel wants to develop a system to manage their take-away service. The system should maintain the menu of the day. From the customer end, the system should be able to assign tokens for the registered orders and display the bill amount. The order should be confirmed after receiving the payment and send a notification to the customer and the hotel manager. Appending the order should be disabled after payment. From the hotel manager's end, order-wise and item-wise lists should be displayed. Orders with 3 or less than 3 items can be given higher priority. The availability of a food item should be updated to the manager and the customer (during ordering). When the order is ready, a notification should be sent to the customer for collecting their order.",Easy,0.3
+Consider a library management system where users can borrow and return books. Identify and define the conceptual classes involved in this system. Provide a detailed explanation of the attributes and behaviors associated with each class. Discuss how these classes contribute to the overall design and functionality of the library management system. ,Easy,0.3
+"Consider a system designed to manage different types of vehicles. Initially, the system is designed to handle only cars. Through the process of extension refinement, the system is extended to  accommodate other types of vehicles, such as motorcycles and bicycles. (i) . Identify the base class and the extended classes in this scenario. (ii) Explain the concept of extension refinement and how it is applied to incorporate new types of vehicles into the system. Provide specific examples of attributes or behaviors that may be added or modified during the refinement process. (iii) Discuss the advantages and potential challenges of using extension refinement in this context. ",Hard,0.85
+"Create an activity diagram with swimlanes for a simplified online order processing system. The system involves the activities of a Customer, Order Processing Team, and Inventory Team. Explain the key activities within each swimlane, detailing the tasks performed by the Customer, Order Processing Team, and Inventory Team. Also, identify decision points in the process and explain how the flow of activities is determined based on certain conditions.",Medium,0.55
+" Consider a vending machine that dispenses beverages. Design a state diagram to model the behavior of the vending machine when a customer interacts with it. Identify and explain the key states in the state diagram, such as ""Idle,"" ""Selection,"" ""Payment,"" ""Dispensing,"" and any other relevant states. Explain the transitions between states, detailing the events or conditions that trigger each transition. Consider events like coin insertion, product selection, and dispensing completion.",Easy,0.3
+Discuss and illustrate the guidelines for organizing packages in an object-oriented system. Use a practical scenario of a library management system to demonstrate the application of these guidelines.,Medium,0.55
+Differentiate between component and deployment diagram. Provide an illustrative example using a simplified e-commerce system to demonstrate the application of both concepts.,Medium,0.55
+"Apply the GRASP design principles of Low Coupling, High Cohesion, and Polymorphism to design a simplified library management system. Explain the application of each principle, providing a clear rationale and impact on the overall system design.",Hard,0.85
+"Design a simplified online shopping system and apply three different GoF creational design patterns. Provide a detailed explanation of each pattern's application, including its intent, participants, collaborations, and real-world scenarios where the pattern is beneficial.",Hard,0.85
+"Given a class diagram for a simplified e-commerce system, map the design elements to corresponding code segments in a programming language of your choice. Explain the mapping process and discuss the considerations for translating design concepts into executable code. Discuss and elaborate on various software quality assurance activities within the software development life cycle.",Hard,0.85
+"Design a class diagram for a simplified university registration system. Explain the concepts and 2 principles that guide the design of class diagram. Discuss key terms such as classes, associations, attributes, and multiplicity. Elaborate on how these elements contribute to modeling the structure of a system.",Hard,0.85
+"Apply the GRASP design patterns to design a simplified library management system. Explain the rationale behind Information Expert, Creator and Controller pattern, and its impact on the overall system design. Illustrate how each pattern is used to assign responsibilities to classes.",Hard,0.85
+What are the challenges and risks in cloud based solutions? Discuss the importance of service contracts in Service-Oriented Architecture (SOA) and how they contribute to the success of SOA implementations.,Medium,0.55
+What is a Hypervisor in Cloud Computing and its types?,Easy,0.3
+List out the key highlights of Open Stack.,Easy,0.3
+Differentiate the Physical and Cyber Security Protection at Cloud/Data Centers.,Medium,0.55
+How data is secured in Cloud? Give an example.,Medium,0.55
+Define the functions of Map and Reduce.,Easy,0.3
+State the difference between SLO and SLA.,Easy,0.3
+Write a short note on cloud security defense strategies. Why there is need for Edge Computing?,Medium,0.55
+Describe the various layers and type of Cloud Computing.,Medium,0.55
+Describe the SOAP messages exchanged during a hypothetical web service method invocation. Provide the XML format and highlight the operations associated with each message. Elaborate the various levels of virtualization ranging from hardware to application in five abstraction levels.,Medium,0.55
+Draw and Explain the Cloud architecture design in OpenNebula.,Hard,0.85
+Explain the Live VM Migration steps in detail with relevant diagrams wherever necessary.,Medium,0.55
+Explain why CDMI and OCCI interoperating in an integrated cloud system,Medium,0.55
+"Explain the data processing actions of map and reduce tasks in the context of the MapReduce programming model. Provide clear steps on how each mapper processes and prepares intermediate data for use by reducers. Also, describe the role of reducers in consolidating and finalizing the results.",Medium,0.55
+"Provide a comprehensive explanation of Service Level Agreement (SLA) in the context of cloud computing. Cover the various types of SLAS, their life cycle, and the management aspects associated with SLAS in the cloud environment.",Medium,0.55
+Write in detail the performance metrics in HPC systems.,Medium,0.55
+Write a short about the QoS in Cloud Computing.,Medium,0.55
+Elaborate the key features and benefits of Amazon Web Services (AWS) as an Infrastructure as a Service (IaaS) provider.,Medium,0.55
+"In a real-time cloud computing environment, describe how Docker containers contribute to the efficient deployment and scalability of applications. Include key concepts such as container orchestration, image management, and the advantages of using Docker in a cloud-native architecture. Additionally, discuss any challenges and best practices associated with deploying Dockerized applications in a cloud setting.",Medium,0.55
+What are federated clouds? With neat diagram explain the cloud federation stack.,Medium,0.55
+Discuss why Automated Policy-Based Management and Cloud Management Standards are Important and give proper justification.,Medium,0.55
+How is a viewing coordinate system setup in 3D?,Medium,0.55
+Present the A* path finding algorithm.,Medium,0.55
+What is 'Scan Conversion'?,Easy,0.3
+How is a texture applied to a 3D model?,Medium,0.55
+Present the structure of a Dialogue Tree.,Medium,0.55
+What constitutes 'Game Play Mode'?,Medium,0.55
+Identify the Dimensions of the Game Worids.,Medium,0.55
+Compare Games of Emergence and Games of Progression.,Hard,0.85
+How is rendering a Transparent Cube different from that of the typical opaque cube?,Medium,0.55
+What is Particle System animation?,Easy,0.3
+Derive the Perspective Projection Transformation matrix and analyze the perspective effects of the matrix on any projection,Hard,0.85
+Write about the basic lighting and illumination models.,Medium,0.55
+How would you relate Skin and Bones and Inverse Kinematics animation techniques? Discuss,Medium,0.55
+Write about the general types of challenges that most games offer.,Medium,0.55
+What do you understand by Continuous Level of Detail? Summarize the steps of any popular algorithm for CLOD.,Medium,0.55
+What is a balanced game? Summarize the different ideas and techniques used to ensure balance in a game.,Easy,0.3
+What types of Core Mechanics are used in Games? Present an example for one of those mechanics.,Medium,0.55
+How is collision detected between two objects? Present any simple algorithm for detecting collision between two convex polyhedra.,Medium,0.55
+What is the need for clipping in CG applications? Present any simple clipping algorithm for clipping the shape shown against a standard clip rectanqle.,Easy,0.3
+Illustrate the rendering pipeline and Present the Ray Tracing technique.,Medium,0.55
+Identify the context of usage of the following modeling techniques Mesh Modeling and spline based Modeling,Medium,0.55
+Present the core features of a typical Game Engine and dsscribs the process of developing any simple game in 3D,Medium,0.55
+"How are back-faces detected? Identify the back faces for a standard unit cube at origin as shown, when viewing direction is along the diagonal connecting tlie vertex (1,1,1) and (0,0,0).",Medium,0.55
+Give example statements for Pragmatic Ambiguity.,Easy,0.3
+What are the applications of Earley Algorithm?,Medium,0.55
+"Define: Term Frequency, Inverse Document Frequency",Easy,0.3
+Identify the Morphological Type: 1. Important to Bill 2. Looked Up the Tree,Medium,0.55
+Distinguish: Anaphora & Cataphora,Medium,0.55
+Draw the block diagram for N-gram Topic Modelling,Medium,0.55
+What are the challenges in handling Word Sense Disambiguation during Machine Translation?,Medium,0.55
+What is LSI?,Easy,0.3
+Why is Independence assumption followed in Naive Bayes?,Medium,0.55
+How is Bag-of-words model useful in Machine Translation?,Medium,0.55
+Explain Dependency Parsing with 2 examples of your choice,Medium,0.55
+Discuss various POS tags in English. Provide an example text and tag the POS within the text using POS markers.,Medium,0.55
+"Explain Lexicon, Lexeme and the different types of relations that hold between lexemes.",Medium,0.55
+"Is ABSTRACT a summary of research paper? Explain with block diagram on arriving at a better summarisation system, if any",Medium,0.55
+Discuss ways of using word embedding using pre-trained Language Model? Justify.,Medium,0.55
+Discuss the processes involved in creating a Recommender System for Re-targeted Ads Generation in Social Media. Please depict using a block diagram and support with an explanation.,Medium,0.55
+"Draw ambiguous parse trees for ""1 saw a man with a telescope"" and ""1 saw a man with a telescope on the boat"". Explain the ambiguity.",Medium,0.55
+Discuss with block diagram how Language Models are used in developing a Mobile App for Dyslexia Children.,Medium,0.55
+Explain and Show examples for distinguishing Information Extraction vs. Information Retrieval.,Medium,0.55
+How do you apply Machine Translation techniques to dynamically translate the Quora results? Explain with block diagram,Medium,0.55
+State & Explain any 3 different evaluation metrics available for Text Classification.,Easy,0.3
+Explain Vector Space Model with neat illustrated example.,Medium,0.55
+Compare and Contrast word embedding models through 1 sample example paragraph.,Hard,0.85
+Give a sample paragraph and explain the process for obtaining N-grams from the text.,Medium,0.55
+"A 30 bytes long message is sent from one device to another, which is 1S m apart, through a link with bandwidth 10 bps. If the data travels through the link at a speed of 3 m/s, calculate the transmission delay and propagation delay.",Medium,0.55
+"How long does it take a packet of length 1000 bytes to propagate over a link of distance 2500km, propagation speed 2.5x108m/s, and transmission rate 2 Mbps?",Medium,0.55
+A subnet has been assigned a subnet mask of 255.255.255.192. What is the maximum number of hosts that can belong to this subnet?,Easy,0.3
+What is the relationship between sequence number and window size in Selective Repeat Mechanism?,Easy,0.3
+"In what scenarios is UDP preferred over TCP , and vice versa?",Medium,0.55
+How does DHCP help in minimizing manual IP address configuration errors?,Medium,0.55
+Name three error-detection strategies employed by link layer,Easy,0.3
+"Determine the maximum length of the cable (in km) for transmitting data at a rate of 500 Mbps in an Ethernet LAN with frames of size 10,000 bits. Assume the signal speed in the cable to be 2,00,000 km/s.",Medium,0.55
+How are signal strength and transmission distance related to each other?,Medium,0.55
+"Discuss in detail the different types of connections that are possible in the application layer protocol used by Google Chrome. Will the working of the protocol differ when a different browser, like Mozilla Firefox or Internet Explorer, is used? Justify your answer",Medium,0.55
+"TCP congestion control decreases its transmission rate in the face of increasing congestion (loss), while UDP sources need not, and it is possible for UDP sources to crowd out TC P traffic. Does it mean that TC P is fairer than UDP? Justify it",Medium,0.55
+"Design and describe an application-level protocol to be used between an automatic teller machine and a bank's centralized computer. Your protocol should allow a user's card and password to be verified, the account balance (which is maintained at the centralized computer) to be queried, and an account withdrawal to be made (that is, money disbursed to the user). Your protocol entities should be able to handle the all-toocommon case in which there is not enough money in the account to cover the withdrawal. Specify your protocol by listing the messages exchanged and the action taken by the automatic teller machine or the bank's centralized computer on transmission and receipt of messages. Sketch the operation of your protocol for the case of a simple withdrawal with no errors, using a sequence diagram. Explicitly state the assumptions made by your protocol about the underiying end-to-end transport service.",Easy,0.3
+Consider distributing a file of F bits to N peers using a ClientServer and P2P architecture. Analyze and specify the distribution time for both the architecture,Hard,0.85
+A circuit in link is implemented with either frequency-division multiplexing (FDM) or time-division multiplexing (TDM). What is the difference between FDM and TDM links?,Easy,0.3
+How to achieve reliable data transfer over a channel that can corrupt or lose packets.? Illustrate with the receiver side Finite State Machine,Easy,0.3
+"Suppose that the links and routers in the network never fail and that routing paths used between all source/destination pairs remains constant. In this scenario, does a virtual circuit or datagram architecture have more control traffic overhead? Why? Explain in detail",Medium,0.55
+"TCP congestion control is often referred to as an additiveincrease, multiplicative-decrease form of congestion. Justify",Medium,0.55
+"Why are policy considerations as important for intra-AS protocols, such as OSPF and RIP, as they are for an interAutonomous System routing protocol like BGP ?",Medium,0.55
+Detail and Discuss CSMA/CD algorithm and derive the efficiency for the same.,Medium,0.55
+"Compare and discuss at least with four performance metrics of the following wireless technologies with simple diagrams: Ad hoc Networks, Wireless LAN, Cellular Technologies, and LTE/5G.",Hard,0.85
+Sketch the IPv4 datagram format and highlight their functionalities,Medium,0.55
+When NAT traversal problem occurs? Discuss at least three solutions to address the same,Medium,0.55
+"Construct LAN (wired & wireless) architecture for your campus with the maximum possible interfaces, technologies, network elements, middleware and protocol involved in it. Discuss their characteristics and specifications.",Medium,0.55
+Which user communities are major stake in programming language landscape?,Medium,0.55
+What is lexical scoping? Give examples,Easy,0.3
+Define assertion. Give its syntax.,Easy,0.3
+Define state transformation. How it is represented mathematically?,Easy,0.3
+What are the five principal ways to pass an argument to a function?,Medium,0.55
+Draw the structure of Run-Time memory,Medium,0.55
+What are some features that are lacking in the C programming language?,Medium,0.55
+Which mechanism can be used to identify the type or class of an object at runtime?,Medium,0.55
+What is the significance of recursion in functional programming paradigm?,Easy,0.3
+What are the two powerful principles of prolog? Give some applications of logic programming.,Medium,0.55
+Discuss about the major language design constraints and design goals for language designers,Hard,0.85
+"Differentiate between structural equivalence and name equivalence with examples and discuss how it can used for types in languages like c, Ada and Java",Easy,0.3
+Describe the assignment semantics with suitable examples,Medium,0.55
+Which garbage collection algorithm makes two passes on the heap to remove garbages? Discuss in detail with a neat diagram,Medium,0.55
